@@ -1,7 +1,3 @@
-Certainly! Here's a README format to entice people to join the DevelopNZ community:
-
----
-
 # Welcome to the DevelopNZ Community! 🥝
 
 Hi there 👋
